@@ -25,7 +25,7 @@ language and reading assessments at two visits about three months apart.
 
 ## Reproducing the results
 
-Download the de-identified dataset from Zenodo: [doi:10.5281/zenodo.23462288](https://doi.org/10.5281/zenodo.23462288). From the folder holding `plausl_participants.csv`
+The de-identified dataset is on Zenodo: [doi:10.5281/zenodo.23462287](https://doi.org/10.5281/zenodo.23462287) (all versions). From the folder holding `plausl_participants.csv`
 and `plausl_sl_trials.csv`:
 
 ```bash
