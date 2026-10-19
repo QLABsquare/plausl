@@ -1,0 +1,30 @@
+cff-version: 1.2.0
+message: "If you use this code, please cite it as below."
+title: "PLAUSL: Predicting Language and Literacy Growth in Children With ASD Using Statistical Learning (analysis code)"
+authors:
+  - family-names: Qi
+    given-names: Zhenghan
+    affiliation: Northeastern University
+license:
+  - MIT
+  - CC-BY-4.0
+repository-code: "https://github.com/QLABsquare/plausl"
+identifiers:
+  - type: other
+    value: "ClinicalTrials.gov NCT06332144"
+    description: Trial registration
+keywords:
+  - statistical learning
+  - autism
+  - language development
+  - literacy
+references:
+  - type: data
+    title: "PLAUSL de-identified dataset"
+    authors:
+      - family-names: Qi
+        given-names: Zhenghan
+    publisher:
+      name: Zenodo
+    doi: 10.5281/zenodo.23462288
+    license: CC-BY-NC-4.0

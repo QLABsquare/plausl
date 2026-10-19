@@ -1,0 +1,47 @@
+# Participant data and outputs never go in this repository.
+# Only code and documentation are tracked.
+
+# private corrections file (participant-specific)
+study_config.json
+
+# data and outputs, wherever they are placed
+*.csv
+*.tsv
+*.xlsx
+*.xls
+*.sav
+*.rds
+*.RData
+*.docx
+*.pdf
+*_output.txt
+
+# recordings and imaging
+*.webm
+*.wav
+*.mp3
+*.mp4
+*.zip
+*.nii
+*.nii.gz
+*.dcm
+
+# data folders, if someone copies them in
+final_plausl_data/
+beh/
+demographic/
+consent forms/
+mri/
+csv_files/
+sicr_recordings/
+
+# system and editor files
+.DS_Store
+~$*
+.Rhistory
+.Rproj.user/
+__pycache__/
+*.pyc
+
+# study-team instructions (private)
+STUDY_TEAM.md
